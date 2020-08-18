@@ -39,7 +39,7 @@ items:
     name: dns
     namespace: dns
     labels:
-      app: nginx
+      app: dns
       app.kubernetes.io/name: dns
       app.kubernetes.io/component: dns
   spec:
